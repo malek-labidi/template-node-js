@@ -16,8 +16,8 @@ This repository serves as a template for building a Node.js application. It prov
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/node-exam-template.git
-   cd node-exam-template
+   git clone https://github.com/malek-labidi/template-node-js.git
+   cd template-node-js
    ```
 
 2. **Install Dependencies:**
